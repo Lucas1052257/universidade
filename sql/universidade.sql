@@ -1,4 +1,4 @@
--- Active: 1770140828124@@127.0.0.1@3306@universidade
+-- Active: 1770140832742@@127.0.0.1@3306@universidade
 CREATE DATABASE universidade;
 
 USE universidade;
@@ -12,3 +12,4 @@ CREATE TABLE alunos (
     endereco VARCHAR(250),
     matricula BOOLEAN DEFAULT TRUE
 );
+
